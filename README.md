@@ -1,4 +1,4 @@
-# Wazzuh-SOC-lab🛡️
+# Wazuh-SOC-lab🛡️
 ![Wazuh](https://img.shields.io/badge/Wazuh-4.8-blue?style=flat-square&logo=wazuh)
 ![Linux](https://img.shields.io/badge/OS-Ubuntu_Server-E95420?style=flat-square&logo=ubuntu)
 ![Cybersecurity](https://img.shields.io/badge/Domain-Defensive_Security-red?style=flat-square)
